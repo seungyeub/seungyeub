@@ -173,7 +173,7 @@
 <div align="center">
 
 <img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=seungyeub&theme=tokyonight&cache_seconds=1800"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=seungyeub&theme=transparent&cache_seconds=1800"
 />
 
 </div>
