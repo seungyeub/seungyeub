@@ -1,25 +1,4 @@
-
-<br />
-<br />
-
-<a href="https://codesandbox.io/u/seungyeub">
-  <img align="right" alt="seungyeub | CodeSandbox" width="20px" src="./assets/codesandbox.svg" />
-</a>
-
-<a href="https://x.com/bseungyeub">
-  <img align="right" alt="seungyeub | Twitter" width="21px" src="./assets/twitter.svg" />
-</a>
-
-<a href="https://www.instagram.com/b.seungyeub/">
-  <img align="right" alt="seungyeub | CodeSandbox" width="20px" src="./assets/instagram.svg" />
-</a>
-
----
-
-
 <div align="center">
-
-# SEUNGYEUB
 
 ### Frontend Developer
 
@@ -213,3 +192,15 @@
 
 </div>
 -->
+
+<a href="https://codesandbox.io/u/seungyeub">
+  <img align="right" alt="seungyeub | CodeSandbox" width="20px" src="./assets/codesandbox.svg" />
+</a>
+
+<a href="https://x.com/bseungyeub">
+  <img align="right" alt="seungyeub | Twitter" width="21px" src="./assets/twitter.svg" />
+</a>
+
+<a href="https://www.instagram.com/b.seungyeub/">
+  <img align="right" alt="seungyeub | CodeSandbox" width="20px" src="./assets/instagram.svg" />
+</a>
