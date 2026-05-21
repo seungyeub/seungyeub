@@ -47,7 +47,7 @@
 
 ### Frontend
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,scss,styledcomponents" />
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,scss,styledcomponents" />
 
 <br />
 
@@ -78,7 +78,7 @@
 
 ### Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,pnpm,vscode,figma" />
+<img src="https://skillicons.dev/icons?i=git,github,pnpm,figma" />
 
 <br />
 
